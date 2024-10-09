@@ -7,9 +7,9 @@ public class Ejercicio7 {
         //pedir al usuario que ingrese los 2 numeros
         System.out.println("Ingresa 2 numeros: ");
         //crear variables y almacenar los numeros ingresados
-        int a = sc.nextInt(),b = sc.nextInt();
+        double a = sc.nextDouble(),b = sc.nextDouble();
         //crear variable resultado y hacer la resta
-        int r = a/b;
+        double r = a/b;
         //imprimir resultado
         System.out.println("La division de los dos numeros es: "+r);
     }
