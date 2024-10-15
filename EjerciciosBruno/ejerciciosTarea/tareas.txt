@@ -1,0 +1,16 @@
+x1. pedir dos números y realizar la suma por función
+x2. pedir 2 números y realizar la resta por función.
+x3. pedir 2 números y realizar la multiplicación por función.
+x4. pedir 2 números y realizar la división por función.
+x5. pedir 1 número y obtener el modulo por función.
+x6. pedir la altura y la base y obtener el área del rectángulo por función.
+x7. pedir el lado y obtener el área por función.
+8. pedir la base y obtener el área por función.
+9. pedir perímetro y apotema y obtener el área de una función.
+10. declarar un arreglo de 10 números e iterar el arreglo por función (imprimir todos los datos del
+arreglo).
+11. declarar un arreglo con 10 palabras e iterar el arreglo por función (imprimir datos).
+12. declarar un arreglo con los caracteres de tu nombre e iterar e imprimir cada carácter por
+función.
+13. pedir un numero al usuario que sea mayor a 20, validar que sea mayor a 20, si es menor volver
+a ingresar de nuevo el número y mandar mensaje error por función.
